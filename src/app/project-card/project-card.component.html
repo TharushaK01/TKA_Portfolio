@@ -1,0 +1,39 @@
+<div class="card shadow text-center" style="max-width: 350px; min-width: 350px;">
+    <div class="card-body">
+        <h5 class="card-title">{{project.name}}</h5>
+        <p class="card-text">{{project.sumary}}.</p>
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">View More</button>
+
+        <!-- Modal -->
+         
+<div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="staticBackdropLabel">Visit my Github</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p>For visit the {{project.name}} project <a href={{project.projectLink}}  target="_blank">Click here</a></p>
+      </div>
+      <div class="modal-footer">
+        
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+    </div>
+    <div class="card-footer">
+        <div class="d-flex flex-wrap justify-content-center">
+           <div *ngFor="let tag of project.tags">
+            <div class="tag me-2 mb-1" [style.background-color]="tag.color">{{tag}}</div>
+           </div>
+
+        </div>
+    </div>
+</div>
