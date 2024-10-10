@@ -62,12 +62,6 @@ TKA_Portfolio/
 ## 🤝 Contributing
 Feel free to contribute to this portfolio project by submitting a pull request! Whether it’s adding new features, improving the layout, or fixing bugs, all contributions are welcome.
 
-## 🧑‍💻 Author
-- **Tharusha**: 
-
-https://github.com/user-attachments/assets/79929784-2d80-4301-bea5-3805f591bf50
-
-
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
