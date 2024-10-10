@@ -1,27 +1,75 @@
-# TharushaKavinda
+# TKA Portfolio 🚀
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
+Welcome to **TKA Portfolio** a modern and sleek portfolio website built with TypeScript! Showcase your projects, skills, and experience with style. 🌟
 
-## Development server
+## 🎨 Features
+- **Responsive Design** 📱: Fully responsive and optimized for all screen sizes.
+- **Project Showcase** 🛠️: Display your top projects with detailed descriptions and live links.
+- **Skills Section** 💡: Highlight your technical skills, tools, and expertise.
+- **Contact Form** 📧: Let visitors easily reach out to you.
+- **Smooth Animations** 🎥: Enjoy smooth transitions and visual effects.
+- 
+## 🌐 Live Preview
+Check out the live version of the portfolio [here](#).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 📸 Video
+https://github.com/user-attachments/assets/0290170e-2c22-44d2-bd9a-dbf2cc613c3b
 
-## Code scaffolding
+## 🛠 Tech Stack
+- **TypeScript**: Primary language for development.
+- **HTML5 & CSS3**: Markup and styling.
+- **JavaScript**: Interactive elements.
+- **Bootstrap**: Layout and design framework.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🎯 Purpose
+This project is designed to provide a personal portfolio website that serves as a platform to demonstrate your work, skills, and achievements. Perfect for sharing with potential employers or clients.
 
-## Build
+## 📝 Installation Guide
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+To set up this project locally:
 
-## Running unit tests
+1. Clone the repository:
+   \`\`\`bash
+   git clone https://github.com/TharushaK01/TKA_Portfolio.git
+   \`\`\`
+2. Navigate into the project directory:
+   \`\`\`bash
+   cd TKA_Portfolio
+   \`\`\`
+3. Open the \`index.html\` file in your favorite web browser or deploy it to a server.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 📁 Project Structure
+\`\`\`
+TKA_Portfolio/
+│
+├── /assets           # Images, icons, and other assets
+├── /css              # Stylesheets
+├── /js               # JavaScript files
+├── /pages            # Separate sections like about, projects
+└── index.html        # Main HTML file
+\`\`\`
 
-## Running end-to-end tests
+## 💡 How It Works
+1. The home page provides a brief introduction and links to different sections (About, Projects, Skills, Contact).
+2. Navigate through different sections to learn more about your work and background.
+3. Use the contact form to send a message directly from the site.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 🚧 Upcoming Features
+- 🔄 Add dark mode support.
+- 🎨 Customizable themes to allow visitors to switch between different styles.
+- 🌟 Integration with GitHub API to dynamically display recent projects.
 
-## Further help
+## 🤝 Contributing
+Feel free to contribute to this portfolio project by submitting a pull request! Whether it’s adding new features, improving the layout, or fixing bugs, all contributions are welcome.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## 🧑‍💻 Author
+- **Tharusha**: 
+
+https://github.com/user-attachments/assets/79929784-2d80-4301-bea5-3805f591bf50
+
+
+
+## 📜 License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+"""
+
