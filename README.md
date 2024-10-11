@@ -38,16 +38,6 @@ To set up this project locally:
    \`\`\`
 3. Open the \`index.html\` file in your favorite web browser or deploy it to a server.
 
-## 📁 Project Structure
-\`\`\`
-TKA_Portfolio/
-│
-├── /assets           # Images, icons, and other assets
-├── /css              # Stylesheets
-├── /js               # JavaScript files
-├── /pages            # Separate sections like about, projects
-└── index.html        # Main HTML file
-\`\`\`
 
 ## 💡 How It Works
 1. The home page provides a brief introduction and links to different sections (About, Projects, Skills, Contact).
@@ -65,5 +55,5 @@ Feel free to contribute to this portfolio project by submitting a pull request! 
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-"""
+
 
